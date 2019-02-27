@@ -21,8 +21,8 @@ c=0;
  {
  printf("yes");
  }
- else
- printf("no;
+ else{
+ printf("no);}
 
 
  getch();
