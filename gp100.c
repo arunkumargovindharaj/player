@@ -13,7 +13,5 @@ int main()
 		i=i*2;
 	}
 	printf("%lx",sum);
-
-
-    return 0;
+return 0;
 }
