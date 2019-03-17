@@ -2,7 +2,6 @@
 void main()
 {
 int n1,n2,k,i,j,a[100];
-clrscr();
 scanf("%d%d",&n1,&n2);
 for(i=0;i<n1;i++)
 {
