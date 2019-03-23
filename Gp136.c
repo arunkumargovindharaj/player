@@ -18,6 +18,8 @@ int main()
 if(l>0)
 printf("yes %d",l);
 if(l==0)
+    {
 printf("no");
+    }
     return 0;
 }
