@@ -8,7 +8,7 @@ void main()
     {
         scanf("%d",&a[i]);
     }
-    for(i=0;i<n;i++)
+    for(i=1;i<=n;i++)
     {
         c=1;
         for(j=i+1;j<n;j++)
