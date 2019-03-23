@@ -12,8 +12,9 @@ int main()
     if(n%2==0)
     l=(n-1)/2;
     else
+        {
     l=n/2;
-    
+    }
     for(i=0;i<n;i++)
     {
         for(j=0;j<n;j++)
