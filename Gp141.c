@@ -31,8 +31,8 @@ int main()
     if(s==1)
       printf("yes");
    
-    else
-      printf("no");
+    else{
+      printf("no");}
       return 0;
    
 }
